@@ -2,7 +2,7 @@ package tr.org.linux.kamp.sezari;
 
 import java.util.Scanner;
 
-public class CeaserHocaninYaptigi {
+public class CeaserH {
 	
 	/*
 	 * To change this license header, choose License Headers in Project Properties.
